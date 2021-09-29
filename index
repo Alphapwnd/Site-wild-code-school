@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Kingdom of Colchis</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <!-- Navigation Section-->
+    <header>
+      <ul id="nav">
+        <li>
+          <a href="/index.html"
+            ><img src="assets/argo-logo.png" alt="Home" height="30" width="40"
+          /></a>
+        </li>
+        <li><a href="/index.html">Home</a></li>
+        <li><a href="/royal-family.html">Royal family</a></li>
+        <li><a href="/assets.html">Royal assets</a></li>
+        <li><a href="/contact.html">Contact Us</a></li>
+      </ul>
+    </header>
+    <section id="welcome">
+      <h1>
+        Welcome to the Royal Kingdom of Colchis
+      </h1>
+    </section>
+
+    <section id="about">
+      <h2>
+        About the Kingdom
+      </h2>
+    </section>
+    Text
+  </body>
+</html>
